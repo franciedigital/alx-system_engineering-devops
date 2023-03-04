@@ -1,0 +1,5 @@
+localhost is a hostname that refers to the local computer. It is commonly used to refer to the loopback network interface, which is a special network interface that allows a computer to send and receive data to itself. The loopback interface is identified by the IP address 127.0.0.1.
+
+When you use localhost as a hostname, you are instructing your computer to connect to itself. This can be useful in a variety of situations, such as when you want to test a network service that is running on your own computer.
+
+A hostfile (also known as a hosts file) is a plain-text file that maps hostnames to IP addresses. It is used by the operating system to resolve hostnames to IP addresses before sending network requests. This can be useful in situations where you want to override the default DNS resolution provided by your network.
