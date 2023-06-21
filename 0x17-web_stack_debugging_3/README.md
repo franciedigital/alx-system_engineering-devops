@@ -1,0 +1,1 @@
+Using strace to find out why A pache is returning a 500 error.
